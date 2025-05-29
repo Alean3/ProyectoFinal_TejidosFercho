@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\conector\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:conector\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|c:\\users\\pc1\\desktop\\ejemplo c#\\proyectofinal2.0\\proyectofinal\\plantillas\\plantilladise\u00F1oproyectofinal_js\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6334C733-6710-42D5-A3B1-43C89A5265F3}|PlantillaDise\u00F1oProyectoFinal_JS.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowKcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:29:55.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:10:35.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAYwOUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:23:17.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAYwCQBAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:03:53.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAqwCMBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:41:32.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:50:27.202Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form8.cs",
+              "RelativeToolTip": "Form8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:27:22.903Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form9.cs",
+              "RelativeToolTip": "Form9.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAYwFQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:54:03.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form10.cs",
+              "RelativeToolTip": "Form10.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwJkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:00:35.063Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:22:55.339Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:30:05.654Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:52:49.092Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:16:18.254Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:03:49.8Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:50:31.592Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form6.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form6.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:03:57.498Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form7.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form7.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:26:57.198Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form8.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form8.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form8.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:27:27.3Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form9.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form9.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:40:57.824Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form10.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form10.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form10.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:00:30.888Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:54:26.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAawOIBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:22:10.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Conector\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conector\\Conexion.cs",
+              "ToolTip": "C:\\Users\\PC1\\Desktop\\Ejemplo C#\\ProyectoFinal2.0\\ProyectoFinal\\Plantillas\\PlantillaDise\u00F1oProyectoFinal_JS\\Conector\\Conexion.cs",
+              "RelativeToolTip": "Conector\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:58:51.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
